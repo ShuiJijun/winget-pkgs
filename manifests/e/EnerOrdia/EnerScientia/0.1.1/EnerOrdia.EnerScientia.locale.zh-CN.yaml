@@ -1,0 +1,17 @@
+PackageIdentifier: EnerOrdia.EnerScientia
+PackageVersion: 0.1.1
+PackageLocale: zh-CN
+Publisher: EnerScientia
+PublisherUrl: https://github.com/ShuiJijun/EnerScientia
+PublisherSupportUrl: https://github.com/ShuiJijun/EnerScientia/issues
+Author: Jijun Shui and Hui Zeng
+PackageName: 能科智研｜EnerScientia
+PackageUrl: https://github.com/ShuiJijun/EnerScientia
+License: 能科智研桌面用户协议
+LicenseUrl: https://github.com/ShuiJijun/EnerScientia/releases/download/v0.1.1/user-agreement.zh-CN.md
+PrivacyUrl: https://github.com/ShuiJijun/EnerScientia/releases/download/v0.1.1/privacy-policy.zh-CN.md
+ShortDescription: 面向能源科学的智能研究工作台。
+Description: 能科智研在同一桌面工作空间中连接研究问题、资料、本机工具和可追溯写作。科研计算使用用户已安装的兼容工具。桌面应用采用独立用户协议，公开的部分研究引擎与规则源码采用 Apache-2.0。
+ReleaseNotesUrl: https://github.com/ShuiJijun/EnerScientia/releases/tag/v0.1.1
+ManifestType: locale
+ManifestVersion: 1.12.0

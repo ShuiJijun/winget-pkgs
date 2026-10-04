@@ -1,0 +1,22 @@
+PackageIdentifier: EnerOrdia.EnerScientia
+PackageVersion: 0.1.1
+PackageLocale: en-US
+Publisher: EnerScientia
+PublisherUrl: https://github.com/ShuiJijun/EnerScientia
+PublisherSupportUrl: https://github.com/ShuiJijun/EnerScientia/issues
+Author: Jijun Shui and Hui Zeng
+PackageName: 能科智研｜EnerScientia
+PackageUrl: https://github.com/ShuiJijun/EnerScientia
+License: EnerScientia Desktop User Agreement
+LicenseUrl: https://github.com/ShuiJijun/EnerScientia/releases/download/v0.1.1/user-agreement.en.md
+PrivacyUrl: https://github.com/ShuiJijun/EnerScientia/releases/download/v0.1.1/privacy-policy.en.md
+ShortDescription: An intelligent research workspace for energy science.
+Description: EnerScientia connects research questions, materials, local tools and traceable writing in one desktop workspace. Research computation uses compatible tools already installed on the user's computer. The desktop application has a separate user agreement; the selected public research-engine and rule source is licensed under Apache-2.0.
+Tags:
+  - energy
+  - research
+  - science
+  - ai
+ReleaseNotesUrl: https://github.com/ShuiJijun/EnerScientia/releases/tag/v0.1.1
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0

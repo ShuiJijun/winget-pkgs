@@ -1,0 +1,13 @@
+PackageIdentifier: EnerOrdia.EnerScientia
+PackageVersion: 0.1.1
+InstallerType: nullsoft
+Scope: user
+Installers:
+  - Architecture: x64
+    InstallerUrl: https://github.com/ShuiJijun/EnerScientia/releases/download/v0.1.1/EnerScientia-0.1.1-win-x64.exe
+    InstallerSha256: D6D47B47FFEA37C2994ABCEB30040D52990CAC1C230AAE7E438FCB4270EB2C15
+    AppsAndFeaturesEntries:
+      - DisplayName: 能科智研｜EnerScientia 0.1.1
+        Publisher: EnerScientia
+ManifestType: installer
+ManifestVersion: 1.12.0
